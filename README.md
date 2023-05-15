@@ -14,3 +14,6 @@ npm install node-modules
 npm install react-scripts start
 ```
 These commands helps you to run this program locally on your desktop.
+
+###Screenshots
+![image](https://github.com/CameronBlack19/invoice-generator/assets/91965161/c6ea27e6-2b64-4183-9d2f-61c8be89e438)
