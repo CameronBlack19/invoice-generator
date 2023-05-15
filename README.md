@@ -16,4 +16,14 @@ npm install react-scripts start
 These commands helps you to run this program locally on your desktop.
 
 ###Screenshots
-![image](https://github.com/CameronBlack19/invoice-generator/assets/91965161/c6ea27e6-2b64-4183-9d2f-61c8be89e438)
+Main Page:
+![image](https://github.com/CameronBlack19/invoice-generator/assets/91965161/ffeac984-02bf-443f-a102-575a7189218b)
+
+Invoice Page:
+![image](https://github.com/CameronBlack19/invoice-generator/assets/91965161/6d5291f2-5188-4c7e-a70b-b05913287762)
+
+Print/Download Page:
+![image](https://github.com/CameronBlack19/invoice-generator/assets/91965161/45b67d27-7f86-4fe6-99d6-c556828d6253)
+
+
+```Built by Pavan Mahesh```
